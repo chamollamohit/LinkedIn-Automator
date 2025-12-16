@@ -46,7 +46,7 @@ This tool implements **8+ distinct techniques** to mimic human behavior and evad
 -   **Search & Targeting:** Navigates search results, handles pagination, and detects "Connect" vs "Follow" buttons via fuzzy logic.
 -   **Smart Popup Handling:** Automatically handles "Send without a note" and generic "Send" modals without crashing.
 -   **State Persistence:** Logs all successful invites to `history.json` to track activity.
--   **Observability:** Structured JSON logging (`slog`) to both terminal and `bot.log`.
+-   **Observability:** Structured logging (`slog`) output to standard terminal for real-time monitoring.
 
 ---
 
